@@ -1,0 +1,20 @@
+.detail-delivery__text{
+	font-size: 18px;
+    color: #454545;
+    margin: 5px 0 10px 0;
+    line-height: 1.5;
+}
+.detail-delivery__car{
+	display: inline-block;
+    zoom: 1;
+    width: 31px;
+    height: 25px;
+    background: url(car.jpg) no-repeat;
+    position: relative;
+    top: 7px;
+    margin-left: -7px;
+}
+.detail-delivery__time {
+    color: #B80B3D;
+    font-weight: bold;
+}
